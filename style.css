@@ -1,12 +1,21 @@
 .neon-text {
-    color: #fff; /* White text color */
+    color: #00FFFF; /* White text color */
     font-family: 'Arial', sans-serif; /* Font style */
     font-size: 50px; /* Font size */
     text-shadow: 
-        0 0 5px #fff, /* White glow */
-        0 0 10px #f0f, /* Magenta glow */
-        0 0 20px #f0f, /* Magenta glow */
-        0 0 40px #f0f, /* Magenta glow */
-        0 0 80px #f0f, /* Magenta glow */
-        0 0 90px #f0f; /* Magenta glow */
+        0 0 5px #00FFFF, /* White glow */
+        0 0 10px #00FFFFf, /* Magenta glow */
+        0 0 20px #00FFFF, /* Magenta glow */
+        0 0 40px #00FFFF, /* Magenta glow */
+        0 0 80px #00FFFF, /* Magenta glow */
+        0 0 90px #00FFFF; /* Magenta glow */
+}
+
+
+ifram{
+    text-align:center;
+}
+
+body{
+    background:black;
 }
